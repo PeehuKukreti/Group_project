@@ -1,15 +1,16 @@
-# Group_project
- Team members
+# Project
+ 
+ ## Team members
     1. Peehu Kukreti
     2. Tanya Dhingra
     3. Shruti Bansal
     4. Monisha 
 
- Domain: Banking & Finance 
+## Domain: Banking & Finance 
 
- Problem Statement-----
+ ## Problem Statement-----
 
- Software 
+ ## Software 
    1. R
    2. Python
    
