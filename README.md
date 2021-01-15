@@ -8,9 +8,9 @@
 
 ## Domain: Social Media
 
- ## Objective: 
- 1.To identify similar content by matching text based features
- 2. To identify underlying patterns( Unsupervised Learning)             
+## Objective
+  1.To identify similar content by matching text based features
+  2. To identify underlying patterns( Unsupervised Learning)             
 
  ## Software 
    1. R
